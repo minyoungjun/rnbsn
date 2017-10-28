@@ -2022,14 +2022,22 @@
 <text transform="matrix(1 0 0 1 609.0707 698.0812)" class="st3 st4 st5">경상남도</text>
 <text transform="matrix(1 0 0 1 774.5089 731.7727)" class="st3 st4 st5">부산</text>
 <text transform="matrix(1 0 0 1 320.3494 1122.1223)" class="st3 st4 st5">제주도</text>
-<text transform="matrix(1 0 0 1 31.6689 209.8055)"><tspan x="0" y="0" class="st6 st7">경희대학교</tspan><tspan x="0" y="48" class="st6 st7">삼육대학교</tspan><tspan x="0" y="96" class="st6 st7">연세대학교</tspan><tspan x="0" y="144" class="st6 st7">한양대학교</tspan></text>
+<text transform="matrix(1 0 0 1 31.6689 209.8055)" class="st6 st7">경희대학교</text>
+<text transform="matrix(1 0 0 1 31.6689 257.8055)" class="st6 st7">삼육대학교</text>
+<text transform="matrix(1 0 0 1 31.6689 305.8055)" class="st6 st7">연세대학교</text>
+<text transform="matrix(1 0 0 1 31.6689 353.8055)" class="st6 st7">한양대학교</text>
 <text transform="matrix(1 0 0 1 31.7258 468.7384)" class="st6 st7">아주대학교</text>
-<text transform="matrix(1 0 0 1 31.7259 630.0652)"><tspan x="0" y="0" class="st6 st7">건양대학교</tspan><tspan x="0" y="48" class="st6 st7">공주대학교</tspan></text>
+<text transform="matrix(1 0 0 1 31.7259 630.0652)" class="st6 st7">건양대학교</text>
+<text transform="matrix(1 0 0 1 31.7259 678.0652)" class="st6 st7">공주대학교</text>
 <text transform="matrix(1 0 0 1 31.7255 808.9691)" class="st6 st7">조선대학교</text>
 <text transform="matrix(1 0 0 1 963.1616 149.631)" class="st6 st7">차의과대학교</text>
-<text transform="matrix(1 0 0 1 963.1606 294.9073)"><tspan x="0" y="0" class="st6 st7">가톨릭관동대학교</tspan><tspan x="0" y="48" class="st6 st7">연세대학교(원주)</tspan><tspan x="0" y="96" class="st8 st6 st7">한림대학교</tspan></text>
-<text transform="matrix(1 0 0 1 963.1608 600.8171)"><tspan x="0" y="0" class="st6 st7">계명대학교</tspan><tspan x="0" y="48" class="st6 st7">대구가톨릭대학교</tspan></text>
-<text transform="matrix(1 0 0 1 963.1611 778.5703)"><tspan x="0" y="0" class="st6 st7">부산가톨릭대학교</tspan><tspan x="0" y="48" class="st6 st7">인제대학교</tspan></text>
+<text transform="matrix(1 0 0 1 963.1606 294.9073)" class="st6 st7">가톨릭관동대학교</text>
+<text transform="matrix(1 0 0 1 963.1606 342.9073)" class="st6 st7">연세대학교(원주)</text>
+<text transform="matrix(1 0 0 1 963.1606 390.9073)" class="st8 st6 st7">한림대학교</text>
+<text transform="matrix(1 0 0 1 963.1608 600.8171)" class="st6 st7">계명대학교</text>
+<text transform="matrix(1 0 0 1 963.1608 648.8171)" class="st6 st7">대구가톨릭대학교</text>
+<text transform="matrix(1 0 0 1 963.1611 778.5703)" class="st6 st7">부산가톨릭대학교</text>
+<text transform="matrix(1 0 0 1 963.1611 826.5703)" class="st6 st7">인제대학교</text>
 <text transform="matrix(1 0 0 1 687.3214 599.8041)" class="st4 st5">대구</text>
 <path class="st9" d="M161.2,389.1H12.5c-6.6,0-12-5.4-12-12v-204c0-6.6,5.4-12,12-12h148.7c6.6,0,12,5.4,12,12v204
 	C173.2,383.7,167.8,389.1,161.2,389.1z"/>
